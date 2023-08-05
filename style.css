@@ -1,0 +1,101 @@
+
+
+
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.container{
+    display: flex;
+    height: 850px;
+    width: 650px;
+    background-color: #272727;   
+    justify-content: flex-start;
+    padding-bottom: 200px;
+    padding-right: 100px;
+    padding-top: 46px;
+    
+}
+
+.sideOne{
+    padding-right: 30px;
+    margin-left: 25px;
+    margin-block-start: 10px;
+    height: 830px;
+    width: 290px;
+    background-color:#272727;
+    
+
+}
+
+.sideTwo{
+    margin-right: 10px;
+    margin-block-start: 10px;
+    height: 830px;
+    width: 300px;
+    background-color: #272727;
+}
+
+.square{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    margin-top: 20px;
+    height: 120px;
+    width: 120px;
+    border-style: solid;
+    border-color: #29F3C3;
+    background-color: #272727;
+}
+.circle{
+    
+    border-radius: 50%;
+    height: 80px;
+    width: 80px;
+    background-color: #29F3C3;
+}
+.line{
+    
+    background-color: #29F3C3;
+    height: 5px;
+    width: 100px;
+    
+}
+#profession{
+    color: #29F3C3;
+    padding-bottom: 10px;
+    font-style: italic;
+    font-weight: lighter;
+    padding-top: 0;
+}
+ul{
+    list-style-type: style type;;
+}
+.career{
+    padding-bottom: 10px;
+}
+.specialize{
+    padding-bottom: 10px;
+}
+.text{
+    color: white;
+    
+   
+}
+#study{
+    color: #29F3C3;
+}
+.clg{
+    padding-bottom: 10px;
+}
+h4{
+    color:#29F3C3 ;
+}
+.education{
+    padding-bottom: 10px;
+}
+.language{
+    padding-bottom: 10px;
+}
