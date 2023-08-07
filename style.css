@@ -1,5 +1,8 @@
 
-
+@font-face {
+    font-family: alieron;
+    src: url(./aileron/Aileron-Light.otf);
+  }
 
 body{
     display: flex;
@@ -69,6 +72,7 @@ body{
     font-style: italic;
     font-weight: lighter;
     padding-top: 0;
+    font-family: alieron;
 }
 ul{
     list-style-type: style type;;
@@ -81,6 +85,7 @@ ul{
 }
 .text{
     color: white;
+    font-family: alieron;
     
    
 }
